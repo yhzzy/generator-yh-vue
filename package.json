@@ -1,0 +1,11 @@
+{
+  "name": "generator-yh-vue",
+  "version": "1.0.0",
+  "description": "this is a vue cli",
+  "main": "index.js",
+  "author": "yhzzy",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^5.3.0"
+  }
+}
